@@ -1,6 +1,13 @@
 {
     "configurations": [
         {
+            "type": "java",
+            "name": "primeornot",
+            "request": "launch",
+            "mainClass": "primeornot",
+            "projectName": "Leetcode_a131795b"
+        },
+        {
             "name": "(gdb) Launch",
             "type": "cppdbg",
             "request": "launch",
@@ -44,8 +51,7 @@
                     "ignoreFailures": true
                 }
             ]
-        },
-        
+        }
     ],
     "version": "2.0.0"
 }
