@@ -2,6 +2,13 @@
     "configurations": [
       {
         "type": "java",
+        "name": "find1stMissingPositive",
+        "request": "launch",
+        "mainClass": "Hard.find1stMissingPositive",
+        "projectName": "Leetcode_a131795b"
+      },
+      {
+        "type": "java",
         "name": "FindPosition",
         "request": "launch",
         "mainClass": "ARRAY.FindPosition",
